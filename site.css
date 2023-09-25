@@ -25,3 +25,9 @@ a {
     background: linear-gradient(142deg, rgba(0,249,255,1) 2%, rgba(193,0,255,1) 50%, rgba(255,0,194,1) 100%);
     color: white;
 }
+
+.footer {
+    background: rgb(0,249,255);
+    background: linear-gradient(142deg, rgba(0,249,255,1) 2%, rgba(193,0,255,1) 50%, rgba(255,0,194,1) 100%);
+    color: white;
+}
